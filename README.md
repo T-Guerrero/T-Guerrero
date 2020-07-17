@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="400" height="500" src="https://github.com/T-Guerrero/T-Guerrero/blob/master/photo.jpeg">
+<img align="right" width="300" height="500" src="https://github.com/T-Guerrero/T-Guerrero/blob/master/photo.jpeg">
  
 # GitHub Profile
  
