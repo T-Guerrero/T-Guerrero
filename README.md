@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="300" height="500" src="https://github.com/T-Guerrero/T-Guerrero/blob/master/photo.jpeg">
  
-# GitHub Profile
- 
-## Thiago Guerrero
+# Thiago Guerrero
  
 Computer Science student at University of São Paulo
  
