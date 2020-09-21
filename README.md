@@ -40,9 +40,9 @@ Computer Science student at University of São Paulo
 
 ## Github Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=erickrodrigs&show_icons=true&hide_border=true">
+<a href="https://github-readme-stats.vercel.app/api?username=T-Guerrero&show_icons=true&hide_border=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=T-Guerrero&show_icons=true&hide_border=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs&show_icons=true&hide_border=true">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=T-GUerrero&show_icons=true&hide_border=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-GUerrero&show_icons=true&hide_border=true" />
 </a>
