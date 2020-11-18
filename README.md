@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 # Thiago Guerrero
  
-Computer Science student at University of São Paulo
+Computer Science student at IME-USP
  
  Member of university extension group [CodeLab](http://codelab.ime.usp.br/)
  
