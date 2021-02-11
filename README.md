@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="300" height="500" src="https://github.com/T-Guerrero/T-Guerrero/blob/master/photo.jpeg">
+<img align="right" width="270" height="450" src="https://github.com/T-Guerrero/T-Guerrero/blob/master/photo.jpeg">
  
 # Thiago Guerrero
  
