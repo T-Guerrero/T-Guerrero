@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 # Thiago Guerrero
  
 Computer Science student at IME-USP
+
+Software Engineer at Amazon
  
- Member of university extension group [CodeLab](http://codelab.ime.usp.br/)
+Member of university extension group [CodeLab](https://www.linkedin.com/company/uspcodelab/)
  
 ## About me 
 <!-- https://shields.io/ -->
