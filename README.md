@@ -18,11 +18,11 @@ Here are some ideas to get you started:
  
 # Thiago Guerrero
  
-Computer Science student at IME-USP
+B.Sc. in Computer Science from IME-USP
 
-Software Engineer at Amazon
+Software Engineer at Uber
  
-Member of university extension group [CodeLab](https://www.linkedin.com/company/uspcodelab/)
+Former member of university extension group [CodeLab](https://www.linkedin.com/company/uspcodelab/)
  
 ## About me 
 <!-- https://shields.io/ -->
